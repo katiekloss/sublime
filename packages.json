@@ -7,8 +7,9 @@
 			"details": "https://github.com/katiekloss/dotnet-build-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
-					"tags": true
+					"sublime_text": ">=3000",
+					"tags": true,
+					"dependencies": ["ANSIescape"]
 				}
 			]
 		}
