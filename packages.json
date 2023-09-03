@@ -1,0 +1,18 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "dotnet-build",
+			"author": "katiekloss",
+			"details": "https://github.com/katiekloss/dotnet-build-sublime",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"version": "1.0.0",
+					"url": "https://github.com/katiekloss/dotnet-build-sublime/archive/refs/heads/main.zip",
+					"date": "2023-09-03 00:00:00"
+				}
+			]
+		}
+	]
+}
